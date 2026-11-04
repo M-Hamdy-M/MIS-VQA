@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+data/
+weights/
+checkpoints/
+pretrain.json
+finetune.json
+CholecT50/

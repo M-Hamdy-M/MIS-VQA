@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "If you use MIS-VQA, please cite the paper below."
+title: "MIS-VQA"
+repository-code: "https://github.com/M-Hamdy-M/MIS-VQA"
+license: CC-BY-NC-SA-4.0
+authors:
+  - family-names: Hamdy
+    given-names: Mohamed
+  - family-names: Zouari
+    given-names: Iheb
+  - family-names: Ahmed
+    given-names: Fatmaelzahraa
+  - family-names: Abdel-Ghani
+    given-names: Muraam
+  - family-names: Arsalan
+    given-names: Muhammed
+  - family-names: Suganthan
+    given-names: Ponnuthurai
+  - family-names: Al-Jalham
+    given-names: Khalid
+  - family-names: Al-Ali
+    given-names: Abdulaziz
+  - family-names: Balakrishnan
+    given-names: Shidin
+preferred-citation:
+  type: conference-paper
+  title: "MIS-VQA: An Annotation-Driven Surgical Vision–Language Dataset for Complex Surgical Understanding"
+  conference:
+    name: "Medical Imaging and Computer-Aided Diagnosis (MICAD)"
+  year: 2026
+  url: "https://arxiv.org/abs/2610.34210"
+  authors:
+    - family-names: Hamdy
+      given-names: Mohamed
+    - family-names: Zouari
+      given-names: Iheb
+    - family-names: Ahmed
+      given-names: Fatmaelzahraa
+    - family-names: Abdel-Ghani
+      given-names: Muraam
+    - family-names: Arsalan
+      given-names: Muhammed
+    - family-names: Suganthan
+      given-names: Ponnuthurai
+    - family-names: Al-Jalham
+      given-names: Khalid
+    - family-names: Al-Ali
+      given-names: Abdulaziz
+    - family-names: Balakrishnan
+      given-names: Shidin
